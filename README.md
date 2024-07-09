@@ -1,6 +1,4 @@
 # Uni-Verse
-> "A faint trace of something."
-
 A tiny project strictly aimed at learning and practice fundamental Ai techniques that can be used to create services around text documents, related to university scholarships, policy documents, and  research applications.
 
 Ideas so far:
